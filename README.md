@@ -65,4 +65,4 @@ Each of callback has instance of template in first parameter.
 
 - modal - same as $().modal
 eg `template.modal('hide')`
-- hide - provides to `template.modal('hide')`
+- hide - provides to `template.hide()`
