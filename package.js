@@ -1,6 +1,6 @@
 Package.describe({
   name: 'cristo:dynamic-bootstrap-modals-for-blaze',
-  version: '1.0.0',
+  version: '1.0.1',
   // Brief, one-line summary of the package.
   summary: 'This package creates modals on the fly',
   // URL to the Git repository containing the source code for this package.
