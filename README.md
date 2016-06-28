@@ -58,7 +58,7 @@ Template.myModal.events({
 - template - string or instance of Blaze.Template
 - context - object with properties for template
 - callbacks - callback or array of callback (if function then is treated as a shown callback).
-If object then functions in keys `show, shown, hide, hiden` will be fired in proper moment.
+If object then functions in keys `show, shown, hide, hidden` will be fired in proper moment.
 Each of callback has instance of template in first parameter.
 
 #### methods on template instance
